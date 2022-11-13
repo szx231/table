@@ -1,7 +1,6 @@
-import './style.css';
-import './data';
-import { getApiResource } from './api/network';
-import { URL } from './api/constant';
+import '../styles/style.css';
+import { getApiResource } from '../api/network';
+export const URL = './data.json';
 
 let data = [];
 
