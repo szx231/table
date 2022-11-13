@@ -1,5 +1,5 @@
 import './style.css';
-import './data.json';
+import './data';
 import { getApiResource } from './api/network';
 import { URL } from './api/constant';
 
